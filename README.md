@@ -1,4 +1,4 @@
-### Olá, sou a Giovanna Siqueira. 😍
+## Olá, sou a Giovanna Siqueira. 😍
 
 📍 São Paulo, SP
 
