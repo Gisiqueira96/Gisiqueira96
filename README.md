@@ -17,7 +17,7 @@
    <img align="center" alt="Gi-MySQL" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   </div>
 
-  ## Ache-me através:
+  ## Contate-me através:
   <div> 
   <a href="mailto: giovanna.penedos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/giihsiqueira96" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
